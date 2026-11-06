@@ -41,3 +41,12 @@ Server: http://localhost:3001
 client/   React storefront (Vite)
 server/   Express API + PostgreSQL
 ```
+
+## API overview
+
+- `POST /api/auth/register` — create account
+- `POST /api/auth/login` — sign in
+- `GET /api/products` — list catalog
+- `GET /api/products/:slug` — product detail
+- `GET|POST|PATCH|DELETE /api/cart` — cart ops
+- `GET|POST /api/orders` — orders
