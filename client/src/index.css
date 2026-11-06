@@ -349,3 +349,4 @@ p  { color: var(--muted); }
 .toast.error   { border-left: 3px solid var(--red); }
 .toast.info    { border-left: 3px solid var(--gray-400); }
 .toast.leaving { animation: slideOut 0.3s ease forwards; }
+
