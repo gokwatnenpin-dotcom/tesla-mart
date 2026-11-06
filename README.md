@@ -34,3 +34,10 @@ Server: http://localhost:3001
 - JWT auth with protected cart and checkout
 - Order history and order detail views
 - Dark black / white / grey theme
+
+## Project structure
+
+```
+client/   React storefront (Vite)
+server/   Express API + PostgreSQL
+```
