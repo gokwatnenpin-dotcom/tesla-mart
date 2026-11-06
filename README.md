@@ -27,3 +27,10 @@ Server: http://localhost:3001
 | `npm run dev` | Run client + server |
 | `npm run build` | Build client for production |
 | `npm start` | Start production server |
+
+## Features
+
+- Browse Tesla vehicles, charging, apparel, and energy products
+- JWT auth with protected cart and checkout
+- Order history and order detail views
+- Dark black / white / grey theme
