@@ -11,3 +11,5 @@ coverage/
 *.swp
 .idea/
 .vscode/
+
+# OS / editor leftovers already covered above
