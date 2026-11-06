@@ -50,3 +50,7 @@ server/   Express API + PostgreSQL
 - `GET /api/products/:slug` — product detail
 - `GET|POST|PATCH|DELETE /api/cart` — cart ops
 - `GET|POST /api/orders` — orders
+
+## Theme
+
+The UI uses a black-dominant palette (~70% black, ~30% white) with grey accents and SVG icons throughout.
