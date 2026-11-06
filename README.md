@@ -54,3 +54,7 @@ server/   Express API + PostgreSQL
 ## Theme
 
 The UI uses a black-dominant palette (~70% black, ~30% white) with grey accents and SVG icons throughout.
+
+## License
+
+MIT
